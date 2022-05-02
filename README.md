@@ -2,7 +2,7 @@
 - 👀 I’m interested in my online store
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to increase my sales 
-- 📫 How to reach me info@myshoppingagent-587.com
+- 📫 How to reach me info@myshoppingagent-587.myshopify.com
 
 <!---
 alanbe53/alanbe53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
